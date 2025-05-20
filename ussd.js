@@ -14,7 +14,8 @@ const languages = {
     sendMoneyStep1: "Enter recipient number:",
     sendMoneyStep2: "Enter amount:",
     sendMoneySuccess: "Money sent successfully.",
-    accountInfo: "Account: John Doe\nPhone: +123456789\nBalance: $50",
+    accountInfo:
+      "Account: Alicade ABITURIJE Dusabe \nPhone: (+250) 782583016 \nBalance: $50",
     invalid: "Invalid choice. Try again.",
   },
   sw: {
@@ -30,7 +31,8 @@ const languages = {
     sendMoneyStep1: "Weka namba ya mpokeaji:",
     sendMoneyStep2: "Weka kiasi:",
     sendMoneySuccess: "Pesa imetumwa kikamilifu.",
-    accountInfo: "Akaunti: John Doe\nSimu: +123456789\nSalio: $50",
+    accountInfo:
+      "Akaunti: Alicade ABITURIJE Dusabe\nSimu: (+250) 782583016 \nSalio: $50",
     invalid: "Chaguo batili. Jaribu tena.",
   },
 };
